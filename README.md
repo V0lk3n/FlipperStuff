@@ -12,6 +12,12 @@ A part of my personal Collection of Flipper Zero stuff.
 
 ### Lights
 * Dream Aurora Stars Lights
+* Magic Lantern (LED Column)
+
+## NFC
+
+### Assets
+* mf_classic_dict_user
 
 ## SubGHz
 
